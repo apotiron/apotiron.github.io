@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aline Potiron",
+    "label": "Philosopher of Science",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "aline.potiron@jku.at",
+    "phone": "+43 732 2468 3687",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Altenberger Straße, 69",
+      "postalCode": "4040",
+      "city": "Linz",
+      "countryCode": "AT"
     },
     "profiles": [
       {
