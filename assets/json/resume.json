@@ -5,72 +5,149 @@
     "image": "",
     "email": "aline.potiron@jku.at",
     "phone": "+43 732 2468 3687",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://apotiron.github.io/",
+    "summary": "Trained as a microbiologist, I am now determined to investigate issues in philosophy of science.",
     "location": {
       "address": "Altenberger Straße, 69",
       "postalCode": "4040",
       "city": "Linz",
       "countryCode": "AT"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Johannes Kepler University, Linz",
+      "position": "University Assistant pre-doc",
+      "url": "https://www.jku.at/en/institute-of-philosophy-and-scientific-method/about-us/our-team/aline-potiron/",
+      "startDate": "2020-09-01",
+      "endDate": "2024-08-31",
+      "summary": "I teach at least one course every semester since WS 2021.",
       "highlights": [
-        "Relativity"
+        "Applied Ethics, Gender and Diversity in Computer Science, Philosophy of Medicine"
       ]
-    }
-  ],
+    },
+    {
+      "name": "Château Seguin & Château Brown, Canéjan & Léognan",
+      "position": "Vineyard and Cellar worker",
+      "url": "https://www.chateau-brown.com/en/",
+      "startDate": "2019-09-15",
+      "endDate": "2020-07-31",
+    },
+    {
+      "name": "National Institute for Agricultural Food and Environmental Research, Jouy-en-Josas",
+      "position": "PhD candidate",
+      "url": "https://pastel.hal.science/tel-01812929",
+      "startDate": "2014-11-03",
+      "endDate": "2017-12-11",
+    }],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Johannes Kepler University, Linz, Austria",
+      "url": "https://www.jku.at/en",
+      "area": "Philosophy of Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2020-09-01",
+      "endDate": "-",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+      "institution": "Sorbonne University, Paris, France",
+      "url": "https://www.sorbonne-universite.fr/en",
+      "area": "Logique, Philosophie des Sciences et Philosophie de la Connaissance",
+      "studyType": "Master",
+      "startDate": "2018-09-14",
+      "endDate": "2019-07-02",
+      "score": "summa cum laude",
+    },
+    {
+      "institution": "Paris-Saclay University, Saclay, France",
+      "url": "https://universite-paris-saclay.fr/en",
+      "area": "Microbiology",
+      "studyType": "PhD",
+      "startDate": "2014-11-03",
+      "endDate": "2017-12-11",
+    },
+    {
+     "institution": "L'Institut Agro Dijon, Dijon, France",
+      "url": "https://institut-agro-dijon.com/",
+      "area": "Microbiology & Biotechnologies",
+      "studyType": "Food Engineering",
+      "startDate": "2011-09-01",
+      "endDate": "2014-09-30",
+    },
+    {
+     "institution": "Lycée Henri IV, Paris, France",
+      "url": "https://lycee-henri4.com/",
+      "area": "Mathematics, Biology, Chemistry, Physics and Earth Sciences",
+      "studyType": "Intensive two years university foundation course preparing for a competitive entrance examination to the « grandes écoles »",
+      "startDate": "2009-09-01",
+      "endDate": "2011-07-07",
+    }],
+  "awards": [],
   "certificates": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Microbial impact on cholesterol and bile acid metabolism: current status and future prospects",
+      "publisher": "Journal of Lipid Research",
+      "releaseDate": "2019",
+      "url": "https://doi.org/10.1194/jlr.R088989",
+    },
+    {
+      "name": "Recent patents on hypocholesterolemic therapeutic strategies: an update",
+      "publisher": "Recent Advances in DNA and Gene Sequences",
+      "releaseDate": "2015",
+      "url": "https://www.eurekaselect.com/article/72538",
+    }],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
-  "interests": [],
-  "references": [],
+      "fluency": "C1"
+    },
+    {
+      "language": "German",
+      "fluency": "B1"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "A2"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "A1"
+    }],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Rugby 7"
+        "Judo"
+      ]
+    },
+    {
+      "name": "Culture",
+      "keywords": [
+        "Books"
+        "Cinema"
+      ]
+    }],
+  "references": [
+    {
+      "name": "Julian Reiss",
+      "reference": "PhD’s co-supervisor",
+    },
+    {
+      "name": "Emanuele Ratti",
+      "reference": "PhD’s co-supervisor",
+    },
+    {
+      "name": "Anouk Barberousse",
+      "reference": "Master degree's thesis supervisor",
+    }],
   "projects": []
 }
