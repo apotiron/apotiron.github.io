@@ -20,7 +20,7 @@ nav_order: 1
 
 ## thesis
 
-<div class="pubications">
+<div class="publications">
 
 {% bibliography --file phdthesis %}
 
