@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: University Assistant - PhD Student. <a href='#'>Johannes Kepler University/Institute of Philosophy and Scientific Method</a>.
+subtitle: University Assistant - PhD Student. <a href='https://www.jku.at/en/institute-of-philosophy-and-scientific-method/'>Johannes Kepler University/Institute of Philosophy and Scientific Method</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Hochschulfond Building - 3 rd floor - HF 311</p>
+    <p>Hochschulfond Building - HF 311</p>
     <p>Altenberger Straße, 69</p>
     <p>4040 Linz, Austria</p>
+    <p><small><a href="mailto:aline.potiron[at]jku[dot]at">aline.potiron@jku.at</a></small></p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
