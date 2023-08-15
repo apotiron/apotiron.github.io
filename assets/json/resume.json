@@ -48,7 +48,6 @@
       "area": "Philosophy of Science",
       "studyType": "PhD",
       "startDate": "2020-09-01",
-      "endDate": "-",
       "score": "",
     },
     {
@@ -125,14 +124,14 @@
     {
       "name": "Sports",
       "keywords": [
-        "Rugby 7"
+        "Rugby 7",
         "Judo"
       ]
     },
     {
       "name": "Culture",
       "keywords": [
-        "Books"
+        "Books",
         "Cinema"
       ]
     }],
