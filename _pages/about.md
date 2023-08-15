@@ -9,18 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Hochschulfond Building - 3 rd floor - HF 311</p>
+    <p>Altenberger Straße, 69</p>
+    <p>4040 Linz, Austria</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Alien 👽, coming from the microbiology planet to visit the philosophy of science universe.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Throughout my PhD, I rely on my experience in the lab on microbial communities to address philosophical issues. First, by investigating a widely used approach by scientists, amplicon sequencing, I suggest a novel definition of samples, a category overlooked by philosophers compared to data. Then, I took a more historical approach by delving into the records of Sergueï Winogradsky, a founder of microbial ecology, to back up my thesis that current microbiome research practices are divided. This division can be traced to their medical and ecological scientific lineages, affecting explanations in this discipline. Lastly, by using the ideas of model-based accounts of measurement, I thought of analysing the species concept used in microbial ecology in the context of diversity-as-a-measurement. I investigate the potential implications of such analysis for the practical, epistemological, and theoretical dimensions of the well-known biological and philosophical species problem.
