@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: University Assistant - PhD Student. <a href='#'>Johannes Kepler University/Institute of Philosophy and Scientific Method</a>.
 
 profile:
   align: right
