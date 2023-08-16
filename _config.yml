@@ -231,7 +231,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Potiron]
-  first_name: [Aline]
+  first_name: [Aline, A.]
 
   style: apa
   locale: en
