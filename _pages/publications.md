@@ -18,6 +18,12 @@ nav_order: 1
 
 ## oral presentations
 
+<div class="publications">
+
+{% bibliography --file talks %}
+
+</div>
+
 ## thesis
 
 <div class="publications">
