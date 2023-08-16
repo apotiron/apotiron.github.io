@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: publications & talks
 description: Publications by categories in reversed chronological order.
 nav: true
 nav_order: 1
@@ -16,7 +16,7 @@ nav_order: 1
 
 </div>
 
-## oral presentations
+## talks
 
 <div class="publications">
 
