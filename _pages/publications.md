@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications & talks
-description: Publications by categories in reversed chronological order.
+description: Publications by categories (articles, talks and thesis) and in reversed chronological order.
 nav: true
 nav_order: 1
 ---
