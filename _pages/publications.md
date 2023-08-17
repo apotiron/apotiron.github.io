@@ -8,7 +8,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-## peer-reviewed articles
+<h2>peer-reviewed articles</h2>
 
 <div class="publications">
 
@@ -16,7 +16,7 @@ nav_order: 1
 
 </div>
 
-## talks
+<h2>talks</h2>
 
 <div class="publications">
 
@@ -24,7 +24,7 @@ nav_order: 1
 
 </div>
 
-## thesis
+<h2>thesis</h2>
 
 <div class="publications">
 
