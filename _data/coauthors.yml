@@ -2,33 +2,18 @@
   - firstname: ["Aicha", "A."]
     url: https://fr.linkedin.com/in/aicha-kriaa-651679169
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Mkaouar":
+  - firstname: ["Hela", "H.", "Héla"]
+    url: https://tn.linkedin.com/in/h%C3%A9la-mkaouar-910b3380
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Maguin":
+  - firstname: ["Emmanuelle", "E."]
+    url: https://fr.linkedin.com/in/emmanuelle-maguin-6b65922a
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Gérard": 
+  - firstname: ["Philippe", "P."]
+    url: https://fr.linkedin.com/in/philippe-g%C3%A9rard-5784b032
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Rhimi":
+  - firstname: ["Moez", "M."]
+    url: https://fr.linkedin.com/in/moez-rhimi-528a875a 
