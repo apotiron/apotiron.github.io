@@ -6,7 +6,7 @@ subtitle: University Assistant - PhD Student. <a href='https://www.jku.at/en/ins
 
 profile:
   align: right
-  image: aline_potiron.jpg.jpg
+  image: aline_potiron.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Hochschulfond Building - HF 311</p>
