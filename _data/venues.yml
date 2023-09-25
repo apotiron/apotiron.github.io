@@ -1,3 +1,11 @@
+"ATSB":
+  url: https://www.febs.org/our-members/the-tunisian-association-of-biological-sciences/
+  color: "#00b5ff"
+  
+"PX":
+  url: https://philosophyexchange.org/
+  icon: PhiloExchange.png
+  
 "FEMS":
   url: https://fems-microbiology.org/
   color: "#2d9359"
