@@ -4,3 +4,7 @@
 
 "ISHPSSB":
   url: https://www.ishpssb.org/
+
+"EPSA":
+  url: https://philsci.eu/
+  color: "#039"
