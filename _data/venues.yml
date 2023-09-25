@@ -4,7 +4,6 @@
   
 "PX":
   url: https://philosophyexchange.org/
-  icon: PhiloExchange.png
   
 "FEMS":
   url: https://fems-microbiology.org/
@@ -13,6 +12,9 @@
 "JLR":
   url: https://www.jlr.org/
   color: "#7b6368"
+
+"&HPS":
+  url: http://integratedhps.org/
 
 "ISHPSSB":
   url: https://www.ishpssb.org/
