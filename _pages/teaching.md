@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 ## Selected Topics in Practical Philosophy
-[Teacher Education Studies Secondary Level](https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-teacher-education-studies-secondary-level/#c51233)
+[Teacher Education Studies Secondary Level](https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-teacher-education-studies-secondary-level/)
 
 **Course Description:**
 This course aims to study controversial ethical issues in current societal topics. We will use the resources of normative ethics but also of moral psychology. We will critically discuss the issues raised by the management of scientific research through the Responsible Conduct of Research, particularly the tension between scientific and regulatory values. We will assess the different moral perspectives on the environment and its conservation in relation to policy and law. Finally, we will consider the ethical issues raised by Artificial Intelligence with the notions of values and responsibility.
@@ -22,8 +22,8 @@ This course aims to study controversial ethical issues in current societal topic
 
 ---
 
-## Introduction to Philosophy of Science
-
+## Philosophy of Science
+[Doctorate in Social Sciences and Humanities](https://www.jku.at/en/degree-programs/types-of-degree-programs/doctorate-phd/doctorate-degree-in-social-sciences-humanities/), [Doctorate Degree in Social Sciences, Econonomics & Business](https://www.jku.at/en/degree-programs/types-of-degree-programs/doctorate-phd/doctorate-degree-in-social-sciences-economics-business/)
 
 **Course Description:**
 
