@@ -18,7 +18,18 @@ This course aims to study controversial ethical issues in current societal topic
 - Evaluating students’ assignments and final exams
 - Adapting form and content after biannual feedback 📣 from students
 
-**Semesters:** Winter 2021, Summer & Winter 2022, Summer & Winter 2023
+**Semesters:** Winter 2021, Summer & Winter 2022, Summer & Winter 2023, Summer 2024
+
+---
+
+## Introduction to Philosophy of Science
+
+
+**Course Description:**
+
+**Responsibility:**
+
+**Semester:** Summer 2024
 
 ---
 
