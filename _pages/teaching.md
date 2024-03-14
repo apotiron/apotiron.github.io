@@ -26,8 +26,11 @@ This course aims to study controversial ethical issues in current societal topic
 [Doctorate in Social Sciences and Humanities](https://www.jku.at/en/degree-programs/types-of-degree-programs/doctorate-phd/doctorate-degree-in-social-sciences-humanities/), [Doctorate Degree in Social Sciences, Econonomics & Business](https://www.jku.at/en/degree-programs/types-of-degree-programs/doctorate-phd/doctorate-degree-in-social-sciences-economics-business/)
 
 **Course Description:**
+Science has always had a special place in our societies. Today, it is either considered the best way to attain knowledge or fiercely opposed. This course is addressed to doctoral students and aims to introduce fundamental philosophical issues about the nature of modern science and scientific knowledge. Topics include the nature of scientific knowledge, scientific progress, realism and antirealism, reductionism, laws of nature, scientific explanation, and the role of values in shaping scientific research. The students are invited to link these topics to their dissertation subjects.
 
 **Responsibility:**
+- Clarifying 💡 philosophical concepts and debates to a public without a heavy philosophical background
+- Familiarize with PhD subjects that are farer from my background 👾
 
 **Semester:** Summer 2024
 
