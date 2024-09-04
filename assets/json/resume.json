@@ -1,18 +1,18 @@
 {
     "basics": {
         "name": "Aline Potiron",
-        "label": "University Assistant - PhD student",
+        "label": "Postdoctoral Researcher",
         "image": "",
-        "email": "aline.potiron@jku.at",
-        "phone": "+43 732 2468 3687",
+        "email": "a.i.potiron@uu.nl",
+        "phone": "",
         "url": "https://apotiron.github.io/",
         "summary": "Trained as a microbiologist, I am now determined to investigate issues in philosophy of science.",
         "location": {
-            "address": "Altenberger Straße, 69",
-            "postalcode": "4040",
-            "city": "Linz",
+            "address": "Princetonplein 5",
+            "postalcode": "3584",
+            "city": "Utrecht",
             "region": "",
-            "countryCode": "AT"
+            "countryCode": "NL"
         },
         "profiles": [
             {
@@ -28,10 +28,17 @@
     },
     "work": [
         {
+            "name": "Utrecht University",
+            "position": "Postdoctoral Researcher",
+            "url": "https://www.uu.nl/staff/AIPotiron",
+            "startDate": "2024-09-01"
+        }
+        {
             "name": "Johannes Kepler University, Linz",
             "position": "University Assistant pre-doc",
             "url": "https://www.jku.at/en/institute-of-philosophy-and-scientific-method/about-us/our-team/aline-potiron/",
-            "startDate": "2020-09-01"
+            "startDate": "2020-09-01",
+            "endDate": "2024-08-31"
         },
         {
             "name": "Château Seguin & Château Brown, Canéjan & Léognan",
