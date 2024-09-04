@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: University Assistant - PhD Student. <a href='https://www.jku.at/en/institute-of-philosophy-and-scientific-method/'>Johannes Kepler University/Institute of Philosophy and Scientific Method</a>.
+subtitle: Postdoctoral Researcher. <a href='https://www.uu.nl/en/research/freudenthal-institute'>Utrecht University/Freudenthal Institute</a>.
 
 profile:
   align: right
   image: aline_potiron.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Hochschulfond Building - HF 311</p>
-    <p>Altenberger Straße, 69</p>
-    <p>4040 Linz, Austria</p>
-    <p><a href="mailto:aline.potiron[at]jku[dot]at">aline.potiron@jku.at</a></p>
+    <p>Buys Ballotgebouw</p>
+    <p>Princetonplein 5</p>
+    <p>3584 CC Utrecht, Netherland</p>
+    <p><a href="mailto:a.i.potiron[at]uu[dot]nl">a.i.potiron@uu.nl</a></p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
