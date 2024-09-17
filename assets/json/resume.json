@@ -119,6 +119,13 @@
     "awards": [],
     "publications": [
         {
+            "name": "Different kinds of data: samples and the relational framework",
+            "publisher": "Biology and Philosophy",
+            "releaseDate": "2024",
+            "url": "https://doi.org/10.1007/s10539-024-09962-0",
+            "summary": ""
+        }
+        {
             "name": "Microbial impact on cholesterol and bile acid metabolism: current status and future prospects",
             "publisher": "Journal of Lipid Research",
             "releaseDate": "2019",
