@@ -7,6 +7,13 @@ nav: true
 nav_order: 5
 ---
 
+## Dilemmas of the Scientist - Workshop 1
+[Faculty of Science Master Students](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=FI-MHPSDL1&taal=en&collegejaar=2024)
+
+**Course Description:**
+
+**Semesters:** Summer 2025 (Period 3),
+
 ## Selected Topics in Practical Philosophy
 [Teacher Education Studies Secondary Level](https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-teacher-education-studies-secondary-level/)
 
