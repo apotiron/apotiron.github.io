@@ -11,8 +11,14 @@ nav_order: 5
 [Faculty of Science Master Students](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=FI-MHPSDL1&taal=en&collegejaar=2024)
 
 **Course Description:**
+This course aims to enhance Master's students' awareness and decision-making skills in cases of dilemmas of integrity within the academic context. Students are invited to reflect on scientific integrity by playing the [Dilemma Game](https://www.eur.nl/en/about-university/policy-and-regulations/integrity/research-integrity/dilemma-game). This is an opportunity for students to discuss various dilemmas related to scientific integrity in small groups with peers, both within and outside their own field. This course provides students with concrete examples of dilemmas of integrity, enabling them to recognize these issues in the context of academic research. 
 
-**Semesters:** Summer 2025 (Period 3),
+**Responsibility:**
+- Contextualizing scientific integrity historically and contemporarily 📰
+- Enhancing awarness 🐚 of the students' social responsibilities as a research practicioner
+- Supporting the peers discussions 💬 to achieve decisions on how to act when confronted with a dilemma of scientific integrity
+
+**Semesters:** Summer 2025 (Period 3)
 
 ## Selected Topics in Practical Philosophy
 [Teacher Education Studies Secondary Level](https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-teacher-education-studies-secondary-level/)
