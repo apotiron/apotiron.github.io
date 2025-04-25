@@ -2,6 +2,7 @@
 layout: post
 title: Decaying News
 date: 2023
-inline: false
+inline: true
 related_posts: false
 ---
+
