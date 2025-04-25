@@ -15,10 +15,12 @@ This course aims to enhance Master's students' awareness and decision-making ski
 
 **Responsibility:**
 - Contextualizing scientific integrity historically and contemporarily 📰
-- Enhancing awarness 🐚 of the students' social responsibilities as a research practicioner
-- Supporting the peers discussions 💬 to achieve decisions on how to act when confronted with a dilemma of scientific integrity
+- Enhancing awareness 🐚 of the students' social responsibilities as a research practitioner
+- Supporting peers' discussions 💬 to achieve decisions on how to act when confronted with a dilemma of scientific integrity
 
 **Semesters:** Summer 2025 (Period 3)
+
+---
 
 ## Selected Topics in Practical Philosophy
 [Teacher Education Studies Secondary Level](https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-teacher-education-studies-secondary-level/)
