@@ -6,6 +6,31 @@ description: List of past and current courses.
 nav: true
 nav_order: 5
 ---
+## Philosophy of Sciences
+[Ecology and Experiment](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=B-B1ECEX20&collegejaar=2024)
+
+**Course Description:**
+
+**Responsibility:** *Teaching Assistant*
+- Designing weekly quizzes and a final exam to assess the course 📝
+- Coordinating 🔄 the course with the course's responsible and the teaching assistants
+
+**Semesters:** Summer 2025 (Period 4)
+
+---
+
+## History and Philosophy of Biology
+[Bachelor Biology](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=B-B3GESB05&collegejaar=2024)
+
+**Course Description:**
+
+**Responsibility:** *Teaching Assistant*
+- Grading ✒️ weekly and biweekly assignments
+- ⚖️ Moderating students' discussions during the seminar setup
+
+**Semesters:** Summer 2025 (Period 4)
+
+---
 
 ## Dilemmas of the Scientist - Workshop 1
 [Faculty of Science Master Students](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=FI-MHPSDL1&taal=en&collegejaar=2024)
@@ -45,7 +70,7 @@ Science has always had a special place in our societies. Today, it is either con
 
 **Responsibility:**
 - Clarifying 💡 philosophical concepts and debates to a public without a heavy philosophical background
-- Familiarize with PhD subjects that are farer from my background 👾
+- Familiarize with PhD subjects that are farther from my background 👾
 
 **Semester:** Summer 2024
 
