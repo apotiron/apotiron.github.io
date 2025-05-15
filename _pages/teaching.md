@@ -9,7 +9,8 @@ nav_order: 5
 ## Philosophy of Sciences
 [Ecology and Experiment](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=B-B1ECEX20&collegejaar=2024)
 
-**Course Description:**
+**Course Description:** 
+In construction
 
 **Responsibility:** *Teaching Assistant*
 - Designing weekly quizzes and a final exam to assess the course 📝
@@ -23,6 +24,7 @@ nav_order: 5
 [Bachelor Biology](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=B-B3GESB05&collegejaar=2024)
 
 **Course Description:**
+In construction
 
 **Responsibility:** *Teaching Assistant*
 - Grading ✒️ weekly and biweekly assignments
