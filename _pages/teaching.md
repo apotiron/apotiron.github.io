@@ -14,7 +14,7 @@ The course focuses on biological processes at the population, community, and eco
 
 **Responsibility:** *Teaching Assistant*
 - Designing weekly quizzes and a final exam to assess the course 📝
-- Coordinating 🔄 the course with the course's responsible and the teaching assistants
+- Coordinating 🔄 the course with the course's responsible and the other teaching assistants
 
 **Semesters:** Summer 2025 (Period 4)
 
@@ -24,7 +24,7 @@ The course focuses on biological processes at the population, community, and eco
 [Bachelor Biology](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=B-B3GESB05&collegejaar=2024)
 
 **Course Description:**
-In construction
+This course examines the central theories and concepts of modern biology from a historical and philosophical perspective. It aims to provide students with a critical understanding of the development of contemporary biology, its underlying assumptions, and its relationship to current societal challenges. By the end of the course, students will be able to describe and interpret key historical developments in biology, understand philosophical debates surrounding biological concepts, and contextualize modern biological knowledge within its historical framework.
 
 **Responsibility:** *Teaching Assistant*
 - Grading ✒️ weekly and biweekly assignments
