@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Buys Ballotgebouw</p>
     <p>Princetonplein 5</p>
-    <p>3584 CC Utrecht, Netherland</p>
+    <p>3584 CC Utrecht, Netherlands</p>
     <p><a href="mailto:a.i.potiron[at]uu[dot]nl">a.i.potiron@uu.nl</a></p>
 
 news: true  # includes a list of news items
