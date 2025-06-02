@@ -120,6 +120,13 @@
     "awards": [],
     "publications": [
         {
+            "name": "Beyond the microscope: Rethinking microbial diversity measurement with the model-based account",
+            "publisher": "European Journal for Philosophy of Science",
+            "releaseDate": "2025",
+            "url": "https://doi.org/10.1007/s10539-024-09962-0",
+            "summary": ''
+        },
+        {
             "name": "Different kinds of data: samples and the relational framework",
             "publisher": "Biology and Philosophy",
             "releaseDate": "2024",
