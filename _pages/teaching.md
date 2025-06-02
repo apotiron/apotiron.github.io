@@ -10,7 +10,7 @@ nav_order: 5
 [Ecology and Experiment](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=B-B1ECEX20&collegejaar=2024)
 
 **Course Description:** 
-In construction
+The course focuses on biological processes at the population, community, and ecosystem levels. It examines the impacts of disturbances, particularly climate change and human activities, on ecosystems. Additionally, the philosophy module helps students think critically about ecological concepts, like biodiversity, the Anthropocene, and extinction, as well as the role of experimentation and modeling in ecology.
 
 **Responsibility:** *Teaching Assistant*
 - Designing weekly quizzes and a final exam to assess the course 📝
