@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-05-28 
+date: 2025-07-22 
 inline: true
 related_posts: false
 ---
 
 
-🎉 My **second** philosophy paper is out in the *European Journal for Philosophy of Science*! Check it out: [https://doi.org/10.1007/s13194-025-00660-6](https://doi.org/10.1007/s13194-025-00660-6)
+🎉 Don't miss our **roundtable** "Epistemic pluralism for a better microbiome research practice?" at the [ISHPSSB](https://ishpssb2025.icbas.up.pt/) in **Porto** 🍷
