@@ -32,6 +32,10 @@
   
 "PX":
   url: https://philosophyexchange.org/
+
+"IATA":
+  url: https://www.iata.csic.es/en
+  color: "#804d98"
   
 "FEMS":
   url: https://fems-microbiology.org/
