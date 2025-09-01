@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-07-22 
+date: 2025-08-27 
 inline: true
 related_posts: false
 ---
 
 
-🎉 Don't miss our **roundtable** "Epistemic pluralism for a better microbiome research practice?" at the [ISHPSSB](https://ishpssb2025.icbas.up.pt/) in **Porto** 🍷
+🎉 Great [EPSA25](https://philsci.eu/EPSA25) conference in **Groningen** where I presented my work on the possibility of integrative strategies in microbiome studies.
