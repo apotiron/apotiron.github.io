@@ -3,7 +3,6 @@ layout: page
 title: Special Issue
 description: with background image
 img: 
-category: work
 importance: 1
 ---
 
