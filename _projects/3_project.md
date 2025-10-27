@@ -1,11 +1,8 @@
 ---
 layout: page
 title: The Human Diversity Dilemma
-description: with background image
+description: Workshop followed by a writeshop in Stellenbosch University, Cape Town, South Africa
 img: 
 importance: 3
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
