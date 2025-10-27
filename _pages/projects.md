@@ -5,7 +5,7 @@ permalink: /projects/
 description: I have listed miscellaneous aspects of my research here.
 nav: true
 nav_order: 6
-display_categories: [work]
+display_categories:
 horizontal: false
 ---
 
