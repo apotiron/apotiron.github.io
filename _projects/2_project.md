@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Exposome-Microbiome
-description: with background image
+description: Ongoing collaboration about the epistemic and ethical issues arising from both disciplines.
 img: 
 importance: 2
 ---
 
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
