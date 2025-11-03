@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Special Issue
-description: with background image
+description: 
 img: 
 importance: 1
+category: [work]
 ---
 
 
