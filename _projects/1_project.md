@@ -4,7 +4,7 @@ title: Special Issue
 description: 
 img: 
 importance: 1
-category: [work]
+category: work
 ---
 
 
