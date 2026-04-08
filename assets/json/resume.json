@@ -120,6 +120,13 @@
     "awards": [],
     "publications": [
         {
+            "name": "Rethinking microbiome health through functional dynamics",
+            "publisher": "Cell Host & Microbe",
+            "releaseDate": "2026",
+            "url": "https://doi.org/10.1016/j.chom.2026.03.005",
+            "summary": ""
+        },
+        {
             "name": "Beyond the microscope: Rethinking microbial diversity measurement with the model-based account",
             "publisher": "European Journal for Philosophy of Science",
             "releaseDate": "2025",
