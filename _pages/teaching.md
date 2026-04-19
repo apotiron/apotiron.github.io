@@ -6,6 +6,21 @@ description: List of past and current courses.
 nav: true
 nav_order: 5
 ---
+## History and Philosophy of the Modern Life Sciences
+Elective in [History and Philosophy of Science Master](https://students.uu.nl/en/science/history-and-philosophy-of-science/my-studies/curriculum)
+
+**Course Description:**
+The course focuses on the historical development of modern biology, since the 1850's until the 21st century. The course develops topics such as the history and philosophy of biology as a discipline, the concept of gene, the origines of molecular biology, the relationships between observation, experimenation, models and theories, the debate surrounding the Evolutionary synthesis and its extension, classifications in biology and debates on race, fieldwork, normativity in medical practice and the use of bodies. 
+
+**Responsibility:** *Teaching Assistant*
+- Designing and grading weekly assignments - 📜 Notebooks handwritten by the students
+- Give a lecture on data and samples and tips to write a philosophical essay 🐣
+- Grading oral presentations and final essays
+
+**Semesters:** Spring 2026 (Period 3)
+
+---
+
 ## Philosophy of Science
 [Ecology and Experiment](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=B-B1ECEX20&collegejaar=2024)
 
@@ -16,7 +31,7 @@ The course focuses on biological processes at the population, community, and eco
 - Designing weekly quizzes and a final exam to assess the course 📝
 - Coordinating 🔄 the course with the course's responsible and the other teaching assistants
 
-**Semesters:** Summer 2025 (Period 4)
+**Semesters:** Summer 2025 & 2026 (Period 4)
 
 ---
 
@@ -30,7 +45,7 @@ This course examines the central theories and concepts of modern biology from a 
 - Grading ✒️ weekly and biweekly assignments
 - ⚖️ Moderating students' discussions during the seminar setup
 
-**Semesters:** Summer 2025 (Period 4)
+**Semesters:** Summer 2025 & 2026 (Period 4)
 
 ---
 
