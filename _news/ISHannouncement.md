@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-08-27 
+date: 2026-04-03 
 inline: true
 related_posts: false
 ---
 
 
-🎉 Great [EPSA25](https://philsci.eu/EPSA25) conference in **Groningen** where I presented my work on the possibility of integrative strategies in microbiome studies.
+I will be a visiting researcher in Colombia for a month! A great professional opportunity, let's dance salsa💃!
