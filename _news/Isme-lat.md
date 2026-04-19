@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-08-07
+date: 2026-03-02
 inline: true
 related_posts: false
 ---
 
-📢 I am very **excited** to make a stop in the **scientific world** again by giving a talk on the history of Microbiome Research 🦠 and its impact on contemporary studies at the [ISME-Lat 2025](https://ismelat2025.org/)
+I am so happy to see this collaboration bears fruits 🍋 🍇 🍅! I will be joining our collaborators Thomas Bonin and Stefano Canali  in Milan for the [Workshop – “Postgenomic Intersections: Epistemology and Ethics for the Exposome and Microbiome”](https://www.meta.polimi.it/workshop-postgenomic-intersections-epistemology-and-ethics-for-the-exposome-and-microbiome/)
