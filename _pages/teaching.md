@@ -6,7 +6,7 @@ description: List of past and current courses.
 nav: true
 nav_order: 5
 ---
-## Philosophy of Sciences
+## Philosophy of Science
 [Ecology and Experiment](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=B-B1ECEX20&collegejaar=2024)
 
 **Course Description:** 
