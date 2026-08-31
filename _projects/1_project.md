@@ -2,7 +2,7 @@
 layout: page
 title: Microbiome Research and Race in the 'Local South'
 description: The research aims to identify non-discriminatory and context-sensitive ways for microbiome scientists to classify human diversity
-img: assets/img/TheHumanDiversityDilemma.jpg
+img:
 importance: 1
 category: work
 ---
