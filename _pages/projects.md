@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Page under construction
+description:
 nav: true
 nav_order: 6
 display_categories: [work]
