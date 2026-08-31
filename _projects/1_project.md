@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Special Issue
+title: Microbiome Research and Race in the 'Local South'
 description: 
 img: 
 importance: 1
