@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 ## History and Philosophy of the Modern Life Sciences
-Elective in [History and Philosophy of Science Master](https://students.uu.nl/en/science/history-and-philosophy-of-science/my-studies/curriculum)
+Elective in [History and Philosophy of Science Master](https://www.uu.nl/en/masters/history-and-philosophy-science)
 
 **Course Description:**
 The course focuses on the historical development of modern biology, since the 1850's until the 21st century. The course develops topics such as the history and philosophy of biology as a discipline, the concept of gene, the origines of molecular biology, the relationships between observation, experimentation, models and theories, the debate surrounding the Evolutionary synthesis and its extension, classifications in biology and debates on race, fieldwork, normativity in medical practice and the use of bodies. 
