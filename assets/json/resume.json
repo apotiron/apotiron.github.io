@@ -117,7 +117,13 @@
             ]
         }
     ],
-    "awards": [],
+    "awards": [
+        {
+            "name": "Innovation award",
+            "institution": "Johannes Kepler University and Linz University Fund",
+            "date": "2025",
+        }
+    ],
     "publications": [
         {
             "name": "Rethinking microbiome health through functional dynamics",
