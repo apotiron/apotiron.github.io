@@ -10,7 +10,7 @@ nav_order: 5
 Elective in [History and Philosophy of Science Master](https://students.uu.nl/en/science/history-and-philosophy-of-science/my-studies/curriculum)
 
 **Course Description:**
-The course focuses on the historical development of modern biology, since the 1850's until the 21st century. The course develops topics such as the history and philosophy of biology as a discipline, the concept of gene, the origines of molecular biology, the relationships between observation, experimenation, models and theories, the debate surrounding the Evolutionary synthesis and its extension, classifications in biology and debates on race, fieldwork, normativity in medical practice and the use of bodies. 
+The course focuses on the historical development of modern biology, since the 1850's until the 21st century. The course develops topics such as the history and philosophy of biology as a discipline, the concept of gene, the origines of molecular biology, the relationships between observation, experimentation, models and theories, the debate surrounding the Evolutionary synthesis and its extension, classifications in biology and debates on race, fieldwork, normativity in medical practice and the use of bodies. 
 
 **Responsibility:** *Teaching Assistant*
 - Designing and grading weekly assignments - 📜 Notebooks handwritten by the students
